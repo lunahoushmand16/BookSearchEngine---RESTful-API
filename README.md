@@ -74,9 +74,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Badges
 
-![GitHub repo size](https://img.shields.io/github/repo-size/BookSearchEngine---RESTful-API.git)
-![GitHub contributors](https://img.shields.io/github/contributors/BookSearchEngine---RESTful-API.git)
-![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/BookSearchEngine---RESTful-API.git?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/lunahoushmand16/BookSearchEngine---RESTful-API)
+![GitHub contributors](https://img.shields.io/github/contributors/lunahoushmand16/BookSearchEngine---RESTful-API)
+![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/BookSearchEngine---RESTful-API?style=social)
 
 ## Features
 
