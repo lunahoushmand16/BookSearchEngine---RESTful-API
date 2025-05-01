@@ -1,4 +1,4 @@
-# Social-Network-Api
+# BookSearchEngine – RESTful API with Express Server
 
 ## Description
 
