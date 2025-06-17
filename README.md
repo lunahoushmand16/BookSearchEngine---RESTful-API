@@ -42,6 +42,10 @@ This Google Books API search engine built with a RESTful API, The app was built 
    cd client
    npm run dev
    ```
+7. OR Run this command from the root of your project to Run the App:
+   ```sh
+   npm run develop
+   ```
 
 ## Usage
 
